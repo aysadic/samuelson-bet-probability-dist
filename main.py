@@ -1,3 +1,11 @@
+# A simulation script written for Samuelson's Bet with
+# varying bet parameters, number of trials, and participants.
+#
+# (C) 2021 Ayberk Sadıç, Istanbul, Turkey
+# Released under GNU General Public License v3 (GPLv3)
+# GitHub: aysadic
+# email ayberksadic[]gmail.com
+
 import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
